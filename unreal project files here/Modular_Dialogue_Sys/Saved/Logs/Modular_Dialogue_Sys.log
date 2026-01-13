@@ -2407,3 +2407,830 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.01.13-05.18.26:146][415]LogMetaData: Removing '/Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C' ref from Metadata '/Game/ThirdPerson/Maps/ThirdPersonMap.PackageMetaData'
 [2026.01.13-05.18.26:146][415]LogMetaData: Removing '/Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.SKEL_ThirdPersonMap_C' ref from Metadata '/Game/ThirdPerson/Maps/ThirdPersonMap.PackageMetaData'
 [2026.01.13-05.18.26:149][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/9/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/D/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/8/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/B/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/8/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/E/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/D/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/9/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/B/': No such file or directory
+[2026.01.13-05.18.32:481][415]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/E/': No such file or directory
+[2026.01.13-05.18.32:496][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.13-05.18.32:562][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.01.13-05.18.32:581][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.13-05.18.32:600][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.13-05.18.32:605][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/FM/1RPRBTGBDB0TAE98XKIEJ6
+[2026.01.13-05.18.32:605][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/1RPRBTGBDB0TAE98XKIEJ62B48B80F4B2B5014F5BA3888B58A289F.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/FM/1RPRBTGBDB0TAE98XKIEJ6.uasset'
+[2026.01.13-05.18.32:622][415]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/1/DB/DQ5FJ1YO6HXT76IDPBXNJN
+[2026.01.13-05.18.32:622][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/DQ5FJ1YO6HXT76IDPBXNJN61B1BD764C87E81D070D998C12A4B58E.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/1/DB/DQ5FJ1YO6HXT76IDPBXNJN.uasset'
+[2026.01.13-05.18.32:635][415]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/9/7A/5Y7AJ56MSRD1EXFG5EGOGB
+[2026.01.13-05.18.32:635][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/5Y7AJ56MSRD1EXFG5EGOGBFE557E98457C08D56B434F93F41AAD92.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/9/7A/5Y7AJ56MSRD1EXFG5EGOGB.uasset'
+[2026.01.13-05.18.32:644][415]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/D/Q1/XXH6SLMDOZNRR75I7EDJRO
+[2026.01.13-05.18.32:644][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/XXH6SLMDOZNRR75I7EDJROE6CFC2B64D7F0F0CDE170A9B03E04391.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/D/Q1/XXH6SLMDOZNRR75I7EDJRO.uasset'
+[2026.01.13-05.18.32:652][415]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/EF/875IQ6CVJ8GRH7FYSMT0J1
+[2026.01.13-05.18.32:652][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/875IQ6CVJ8GRH7FYSMT0J1B449F0884BF5721E79B440905A401F5A.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/EF/875IQ6CVJ8GRH7FYSMT0J1.uasset'
+[2026.01.13-05.18.32:662][415]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/7/QC/2KTLGCBIBGSSGUCPOF3WC6
+[2026.01.13-05.18.32:662][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/2KTLGCBIBGSSGUCPOF3WC65C0C19374FCC6456FE0C31BE43EB259C.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/7/QC/2KTLGCBIBGSSGUCPOF3WC6.uasset'
+[2026.01.13-05.18.32:670][415]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/OC/IUR8W5ZI21L11Q02NJRAXQ
+[2026.01.13-05.18.32:671][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IUR8W5ZI21L11Q02NJRAXQ2000B0E1434FFAB4038A4B949305B5BD.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/OC/IUR8W5ZI21L11Q02NJRAXQ.uasset'
+[2026.01.13-05.18.32:680][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/8/8M/OUE6764DTX1J2XSEYOUJ4V
+[2026.01.13-05.18.32:680][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/OUE6764DTX1J2XSEYOUJ4V602F37EE45BC1D4EE69198BDAB799EB2.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/8/8M/OUE6764DTX1J2XSEYOUJ4V.uasset'
+[2026.01.13-05.18.32:689][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/B/YG/P7I3LL6P16P7GA89JLFBCS
+[2026.01.13-05.18.32:689][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/P7I3LL6P16P7GA89JLFBCS9C43E38C4D0838601B3751A6ADF15A72.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/B/YG/P7I3LL6P16P7GA89JLFBCS.uasset'
+[2026.01.13-05.18.32:698][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/5/2D/O9L3KCDZZ9GA0TPZB7K2ZO
+[2026.01.13-05.18.32:698][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/O9L3KCDZZ9GA0TPZB7K2ZO2D0842A547D7C3AA826725A4E2A89C37.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/5/2D/O9L3KCDZZ9GA0TPZB7K2ZO.uasset'
+[2026.01.13-05.18.32:709][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/8/54/6V3QIRQXONUZ8YRXJDW30X
+[2026.01.13-05.18.32:709][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/6V3QIRQXONUZ8YRXJDW30XC78F588E4DDC8517E2F38FB6C18EF723.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/8/54/6V3QIRQXONUZ8YRXJDW30X.uasset'
+[2026.01.13-05.18.32:716][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/E/KR/62S9A7B3RW7T2DYIQQGK6N
+[2026.01.13-05.18.32:716][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/62S9A7B3RW7T2DYIQQGK6N53193E2A4691390CE6F6C7A092EDD277.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/E/KR/62S9A7B3RW7T2DYIQQGK6N.uasset'
+[2026.01.13-05.18.32:726][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/6/SV/5EEMJ5NXZNRIT58EQE89K7
+[2026.01.13-05.18.32:726][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/5EEMJ5NXZNRIT58EQE89K799A35B1C487B0ADF9127528CD543351F.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/6/SV/5EEMJ5NXZNRIT58EQE89K7.uasset'
+[2026.01.13-05.18.32:737][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/6K/L35AHZE6LALECCPP4NQUT8
+[2026.01.13-05.18.32:737][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/L35AHZE6LALECCPP4NQUT8EF722EC74D69EE5ACCB6A081C36743A2.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/6K/L35AHZE6LALECCPP4NQUT8.uasset'
+[2026.01.13-05.18.32:746][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/D/0Y/FTEP5T6CZS37KLBRKQIMH1
+[2026.01.13-05.18.32:746][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/FTEP5T6CZS37KLBRKQIMH1D19886B84612DDD4D1E446967592D08B.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/D/0Y/FTEP5T6CZS37KLBRKQIMH1.uasset'
+[2026.01.13-05.18.32:755][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/HP/UTR8LEVV510R09RG61VJLE
+[2026.01.13-05.18.32:755][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/UTR8LEVV510R09RG61VJLE60A4D5B1473D8693E7BF3696EB8C6C09.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/4/HP/UTR8LEVV510R09RG61VJLE.uasset'
+[2026.01.13-05.18.32:763][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/1/1P/DJYE37LVRT5CPZQ4BPDNWD
+[2026.01.13-05.18.32:764][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/DJYE37LVRT5CPZQ4BPDNWD442829354A859D2C9616048F3D548B2B.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/1/1P/DJYE37LVRT5CPZQ4BPDNWD.uasset'
+[2026.01.13-05.18.32:773][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/9/63/HP7G3HV5LXY50PODR98P30
+[2026.01.13-05.18.32:774][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/HP7G3HV5LXY50PODR98P3085A2372B4CF6CC340B603CA3C243C9DB.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/9/63/HP7G3HV5LXY50PODR98P30.uasset'
+[2026.01.13-05.18.32:781][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/5/PF/TIQTROT99M4VWTUR5XFCPL
+[2026.01.13-05.18.32:781][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/TIQTROT99M4VWTUR5XFCPL12A4568741E51B481B9655877BECB813.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/5/PF/TIQTROT99M4VWTUR5XFCPL.uasset'
+[2026.01.13-05.18.32:789][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/AP/ZBNQVQGO67YMWTENTR2805
+[2026.01.13-05.18.32:789][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/ZBNQVQGO67YMWTENTR2805E614B3FB42585AB55D7B47BB9E29EFA7.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/0/AP/ZBNQVQGO67YMWTENTR2805.uasset'
+[2026.01.13-05.18.32:797][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/7/UB/W813UG8BRDDDA35DHHCZ3Y
+[2026.01.13-05.18.32:798][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/W813UG8BRDDDA35DHHCZ3YBB3062F2432633176AC3D58B2A3CC7C7.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/7/UB/W813UG8BRDDDA35DHHCZ3Y.uasset'
+[2026.01.13-05.18.32:807][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/B/UX/6W72JVI6UEAAIN0RX55A4P
+[2026.01.13-05.18.32:807][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/6W72JVI6UEAAIN0RX55A4PDB0D6D894C7C775E653D0F84C593340A.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/B/UX/6W72JVI6UEAAIN0RX55A4P.uasset'
+[2026.01.13-05.18.32:815][415]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/E/46/YGCA7ME3FIYMY0296YLUH4
+[2026.01.13-05.18.32:815][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/YGCA7ME3FIYMY0296YLUH435B598C441271C279A90B2BCCEA63D36.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap/E/46/YGCA7ME3FIYMY0296YLUH4.uasset'
+[2026.01.13-05.18.36:332][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.83 sec (total: 1:25 min)
+[2026.01.13-05.18.39:440][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.13-05.18.39:453][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap
+[2026.01.13-05.18.39:453][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/ThirdPersonMap881598134C6EF8FBD4BA309D28776E2E.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2026.01.13-05.18.39:935][415]LogFileHelpers: Saving map 'ThirdPersonMap' took 13.683
+[2026.01.13-05.18.39:941][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2026.01.13-05.18.39:942][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/ThirdPersonMap8F48D01749E2B99269675E8D82C4010F.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2026.01.13-05.18.40:121][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap_BuiltData
+[2026.01.13-05.18.40:122][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/ThirdPersonMap_BuiltData47F8F1DC4F4CA675596CC298B72D5D57.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset'
+[2026.01.13-05.18.40:127][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData
+[2026.01.13-05.18.40:128][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/ThirdPersonMap_BuiltData076CCAA3483A5F13B7F4C0AC249F1A6F.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset'
+[2026.01.13-05.18.40:138][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Jump
+[2026.01.13-05.18.40:138][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IA_Jump9DE63A9E4B92EF26CF832EA7A085D165.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Jump.uasset'
+[2026.01.13-05.18.40:148][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Jump
+[2026.01.13-05.18.40:148][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IA_JumpA6C11E71445444E3020AEBB01094988F.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Jump.uasset'
+[2026.01.13-05.18.40:155][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Look
+[2026.01.13-05.18.40:155][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IA_Look0C3DB6BC4DDEEF6FDF41268E95CF8659.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Look.uasset'
+[2026.01.13-05.18.40:159][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Look
+[2026.01.13-05.18.40:161][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IA_Look3087CF6F43DD0AE5E21A2BB0ADBBDC38.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Look.uasset'
+[2026.01.13-05.18.40:169][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Move
+[2026.01.13-05.18.40:169][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IA_Move07E071214E78CF3E28A7528BD0E5B116.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Move.uasset'
+[2026.01.13-05.18.40:175][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Move
+[2026.01.13-05.18.40:176][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IA_Move1D9EF85246C597B629A2E5B2A32D5B12.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Move.uasset'
+[2026.01.13-05.18.40:187][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Input/IMC_Default
+[2026.01.13-05.18.40:187][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IMC_Default9EF8A7F8481CC1C9B7E88489DB0A74CF.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Input/IMC_Default.uasset'
+[2026.01.13-05.18.40:194][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2026.01.13-05.18.40:195][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/IMC_DefaultD155C2B343424148D0962CBEDF68DE82.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2026.01.13-05.18.40:199][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.01.13-05.18.40:207][415]LogShaderCompilers: Display: ================================================
+[2026.01.13-05.18.40:207][415]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.13-05.18.40:207][415]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 10 distinct outputs (83.33%)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: RAM used: 294.52 KiB of 1.60 GiB budget. Usage: 0.02%
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Shaders Compiled: 12
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100.00%)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Time job spent in pending queue: average 0.51 s, longest 1.65 s
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 2.26 s
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Job life time (pending + execution): average 2.12 s, max 3.08
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.09 s
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Average processing rate: 3.88 jobs/sec
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Total thread time: 8.169 s
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Total thread preprocess time: 0.349 s
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Percentage time preprocessing: 4.27%
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.23 sec, max 1.31 sec, min 1.15 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.11 sec, max 1.17 sec, min 1.04 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 1.01 sec, max 1.01 sec, min 1.00 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.74 sec, max 0.75 sec, min 0.72 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.21% of total time (compiled    2 times, average 1.23 sec, max 1.31 sec, min 1.15 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.09% of total time (compiled    2 times, average 1.11 sec, max 1.17 sec, min 1.04 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                                  FHitProxyVS - 24.66% of total time (compiled    2 times, average 1.01 sec, max 1.01 sec, min 1.00 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display:                                                  FHitProxyPS - 18.04% of total time (compiled    2 times, average 0.74 sec, max 0.75 sec, min 0.72 sec)
+[2026.01.13-05.18.40:208][415]LogShaderCompilers: Display: ================================================
+[2026.01.13-05.18.40:234][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.01.13-05.18.40:307][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.13-05.18.40:307][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/BP_ThirdPersonCharacter8CE6F1F7485964EF64E9DCB23D4028A9.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.13-05.18.40:318][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.01.13-05.18.40:319][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/BP_ThirdPersonCharacterA49F2B3841D46209BFA7FFA73A765934.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.01.13-05.18.40:332][415]LogSavePackage: Moving output files for package: /Game/Base_Unreal_Files/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.01.13-05.18.40:332][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/BP_ThirdPersonGameModeDC5F51F349556AAD8CA3AAAE8F83DA08.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.01.13-05.18.40:342][415]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.01.13-05.18.40:344][415]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Saved/BP_ThirdPersonGameMode70D996BC470D63386FBB54A89E8ABE53.tmp' to '../../../../../Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.01.13-05.18.41:106][415]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2026.01.13-05.18.41:106][415]SourceControl: Error: unreal project files here/Modular_Dialogue_Sys/Content/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset
+[2026.01.13-05.18.41:106][415]SourceControl: Error: hint: Use -f if you really want to add them.
+[2026.01.13-05.18.41:106][415]SourceControl: Error: hint: Disable this message with "git config advice.addIgnoredFile false"
+[2026.01.13-05.18.41:115][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.9 sec (total: 1:40 min)
+[2026.01.13-05.18.41:937][415]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2026.01.13-05.18.41:937][415]SourceControl: Error: unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset
+[2026.01.13-05.18.41:937][415]SourceControl: Error: hint: Use -f if you really want to add them.
+[2026.01.13-05.18.41:937][415]SourceControl: Error: hint: Disable this message with "git config advice.addIgnoredFile false"
+[2026.01.13-05.18.43:786][415]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.13-05.18.43:786][415]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Base_Unreal_Files/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Manny/MM_T_Pose.MM_T_Pose
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.MI_Manny_02
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.T_Manny_02_Tan
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_02_N.T_Manny_02_N
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.T_Manny_02_MSR_MSK
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_02_D.T_Manny_02_D
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.T_Manny_02_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.T_Manny_02_ASAOPMASK_MSK
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.MI_Manny_01
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Base_Unreal_Files/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Base_Unreal_Files/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Base_Unreal_Files/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2026.01.13-05.18.43:787][415]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Jump.IA_Jump
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Look.IA_Look
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Base_Unreal_Files/ThirdPerson/Input/Actions/IA_Move.IA_Move
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Base_Unreal_Files/ThirdPerson/Input/IMC_Default.IMC_Default
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.CurveLinearColor /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Functions/ChromaticCurve.ChromaticCurve
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.CurveLinearColorAtlas /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Functions/CA_Mannequin.CA_Mannequin
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Functions/MF_Diffraction.MF_Diffraction
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.T_UE_Logo_M
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Functions/MF_logo3layers.MF_logo3layers
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.ML_BaseColorFallOff
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_01_N.T_Manny_01_N
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan
+[2026.01.13-05.18.43:799][415]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Base_Unreal_Files/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.T_Quinn_01_ASAOMASK_MSK
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.T_Quinn_01_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.T_Quinn_01ID_BN
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.T_Quinn_01ID_D
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.T_Quinn_01ID_MSR_MSK
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.T_Quinn_01ID_N
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.T_Quinn_01ID_Tan
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.MI_Quinn_01
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.T_Quinn_02_ASAOMASK_MSK
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.T_Quinn_02_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.T_Quinn_02ID_BN
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.T_Quinn_02ID_D
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.T_Quinn_02ID_MSR_MSK
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.T_Quinn_02ID_N
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.T_Quinn_02ID_Tan
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.MI_Quinn_02
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/PA_Mannequin.PA_Mannequin
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Base_Unreal_Files/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2026.01.13-05.18.43:801][415]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Base_Unreal_Files/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.01.13-05.18.43:802][415]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Base_Unreal_Files/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2026.01.13-05.18.43:802][415]LogContentValidation: Display: Validating /Script/Engine.World /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_963EC3EB-4002CCE9-759E2EBA-541A873A
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_EBA23F82-48252949-750E4391-1A3A1CDD
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_C73F09FC-4215536B-1DCE2A9E-0A830C70
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_7D23E5AE-4C2A421F-86AF6986-D87E6D05
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_7B7009C3-45D3D6DD-94D3429E-1D79C034
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_D075E5BA-49330D3E-C2503D81-A7CF88D1
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/LevelPrototyping/Textures/T_GridChecker_A.T_GridChecker_A
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/LevelPrototyping/Materials/MF_ProcGrid.MF_ProcGrid
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Base_Unreal_Files/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.MI_PrototypeGrid_TopDark
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.MI_PrototypeGrid_Gray
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Base_Unreal_Files/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Base_Unreal_Files/LevelPrototyping/Materials/M_Solid.M_Solid
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Base_Unreal_Files/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Base_Unreal_Files/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Base_Unreal_Files/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_20
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2026.01.13-05.18.43:803][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.Quinn_calf_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.Quinn_calf_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.Quinn_clavicle_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.Quinn_clavicle_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.Quinn_foot_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.Quinn_foot_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.Quinn_hand_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.Quinn_hand_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.Quinn_lowerarm_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.Quinn_lowerarm_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.Quinn_thigh_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.Quinn_thigh_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.Quinn_upperarm_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.Quinn_upperarm_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.ABP_Quinn_PostProcess
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Base_Unreal_Files/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Base_Unreal_Files/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.Manny_calf_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.Manny_calf_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.Manny_clavicle_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.Manny_clavicle_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.Manny_foot_l_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.Manny_foot_r_pose
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2026.01.13-05.18.43:804][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.Manny_hand_l_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.Manny_hand_r_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.Manny_lowerarm_l_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.Manny_lowerarm_r_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.Manny_thigh_l_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.Manny_thigh_r_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.Manny_upperarm_l_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.Manny_upperarm_r_pose
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Base_Unreal_Files/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshLODSettings /Game/Base_Unreal_Files/Characters/Mannequins/Meshes/Mannequin_LODSettings.Mannequin_LODSettings
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/RTG_Mannequin.RTG_Mannequin
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/IK_Mannequin.IK_Mannequin
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/Base_Unreal_Files/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.ML_Latex_Black
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.ML_ShinyPlastic_Beige
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.ML_ShinyPlastic_Beige_Logo
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.ML_SoftMetal
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.M_MannequinUE4_Body
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.M_MannequinUE4_ChestLogo
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.RTG_UE5Manny_UE4Manny
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Base_Unreal_Files/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.IK_UE4_Mannequin
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Base_Unreal_Files/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.MI_PrototypeGrid_Gray_02
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Base_Unreal_Files/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Base_Unreal_Files/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2026.01.13-05.18.43:805][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK_C
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.Default__CR_Mannequin_BasicFootIK_C
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/ABP_Manny.Default__ABP_Manny_C
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn_C
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/ABP_Quinn.Default__ABP_Quinn_C
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Functions/ChromaticCurve.ChromaticCurve
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Functions/CA_Mannequin.CA_Mannequin
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Functions/MF_Diffraction.MF_Diffraction
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.T_UE_Logo_M
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Functions/MF_logo3layers.MF_logo3layers
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.ML_BaseColorFallOff
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_N.T_Manny_01_N
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.T_Quinn_01_ASAOMASK_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.T_Quinn_01_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.T_Quinn_01ID_BN
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.T_Quinn_01ID_D
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.T_Quinn_01ID_MSR_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.T_Quinn_01ID_N
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.T_Quinn_01ID_Tan
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.MI_Quinn_01
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.T_Quinn_02_ASAOMASK_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.T_Quinn_02_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.T_Quinn_02ID_BN
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.T_Quinn_02ID_D
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.T_Quinn_02ID_MSR_MSK
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.T_Quinn_02ID_N
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.T_Quinn_02ID_Tan
+[2026.01.13-05.18.43:806][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.MI_Quinn_02
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/PA_Mannequin.PA_Mannequin
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.MI_Manny_02
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.MI_Manny_01
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.T_Manny_02_Tan
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_N.T_Manny_02_N
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.T_Manny_02_MSR_MSK
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_D.T_Manny_02_D
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.T_Manny_02_CCRCCPlastic_MSK
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.T_Manny_02_ASAOPMASK_MSK
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Animations/Manny/MM_T_Pose.MM_T_Pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Meshes/Mannequin_LODSettings.Mannequin_LODSettings
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.ABP_Quinn_PostProcess_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.Default__ABP_Quinn_PostProcess_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.ABP_Quinn_PostProcess
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.Default__ABP_Manny_PostProcess_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/RTG_Mannequin.RTG_Mannequin
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/IK_Mannequin.IK_Mannequin
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.Default__CR_Mannequin_Procedural_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.Default__CR_Mannequin_Body_C
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.Manny_upperarm_r_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.Manny_upperarm_l_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.Manny_thigh_r_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.Manny_thigh_l_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.Manny_lowerarm_r_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.Manny_lowerarm_l_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.Manny_hand_r_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.Manny_hand_l_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.Manny_foot_r_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.Manny_foot_l_pose
+[2026.01.13-05.18.43:807][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.Manny_clavicle_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.Manny_clavicle_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.Manny_calf_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.Manny_calf_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.Quinn_upperarm_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.Quinn_upperarm_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.Quinn_thigh_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.Quinn_thigh_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.Quinn_lowerarm_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.Quinn_lowerarm_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.Quinn_hand_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.Quinn_hand_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.Quinn_foot_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.Quinn_foot_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.Quinn_clavicle_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.Quinn_clavicle_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.Quinn_calf_r_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.Quinn_calf_l_pose
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.M_MannequinUE4_ChestLogo
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.M_MannequinUE4_Body
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.ML_SoftMetal
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.ML_ShinyPlastic_Beige_Logo
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.ML_ShinyPlastic_Beige
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.ML_Latex_Black
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2026.01.13-05.18.43:808][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.RTG_UE5Manny_UE4Manny
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.IK_UE4_Mannequin
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Textures/T_GridChecker_A.T_GridChecker_A
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/MF_ProcGrid.MF_ProcGrid
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.MI_PrototypeGrid_TopDark
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.MI_PrototypeGrid_Gray
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/M_Solid.M_Solid
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.MI_PrototypeGrid_Gray_02
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Input/Actions/IA_Jump.IA_Jump
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Input/Actions/IA_Look.IA_Look
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Input/Actions/IA_Move.IA_Move
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.Default__BP_ThirdPersonGameMode_C
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C
+[2026.01.13-05.18.43:809][415]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Maps/ThirdPersonMap.Default__ThirdPersonMap_C
+[2026.01.13-05.20.50:702][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.13-05.20.54:254][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.13-05.20.54:279][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.01.13-05.20.54:300][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.13-05.20.58:157][725]SourceControl: Error: Updated 0 paths from the index
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/': No such file or directory
+[2026.01.13-05.21.02:087][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset'
+[2026.01.13-05.21.02:087][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset'
+[2026.01.13-05.21.02:087][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset'
+[2026.01.13-05.21.02:087][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset'
+[2026.01.13-05.21.02:088][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset'
+[2026.01.13-05.21.02:097][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.3 sec (total: 1:52 min)
+[2026.01.13-05.21.02:136][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.13-05.21.13:389][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.13-05.21.13:408][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.13-05.21.13:427][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.13-05.21.18:683][725]SourceControl: Error: error: pathspec 'H:/Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset' did not match any file(s) known to git
+[2026.01.13-05.21.18:683][725]SourceControl: Error: Updated 0 paths from the index
+[2026.01.13-05.21.18:683][725]SourceControl: Error: Updated 0 paths from the index
+[2026.01.13-05.21.18:683][725]SourceControl: Error: Updated 0 paths from the index
+[2026.01.13-05.21.18:683][725]SourceControl: Unstaged changes after reset:
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2026.01.13-05.21.18:683][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Jump.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Look.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Move.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/IMC_Default.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap.umap
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Logs/Modular_Dialogue_Sys.log
+[2026.01.13-05.21.18:684][725]SourceControl: Unstaged changes after reset:
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Jump.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Look.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Move.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/IMC_Default.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap.umap
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Logs/Modular_Dialogue_Sys.log
+[2026.01.13-05.21.18:684][725]SourceControl: Unstaged changes after reset:
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
+[2026.01.13-05.21.18:684][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Jump.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Look.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Move.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/IMC_Default.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap.umap
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Logs/Modular_Dialogue_Sys.log
+[2026.01.13-05.21.18:685][725]SourceControl: Unstaged changes after reset:
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Jump.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Look.uasset
+[2026.01.13-05.21.18:685][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/Actions/IA_Move.uasset
+[2026.01.13-05.21.18:686][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Input/IMC_Default.uasset
+[2026.01.13-05.21.18:686][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap.umap
+[2026.01.13-05.21.18:686][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2026.01.13-05.21.18:686][725]SourceControl: M	unreal project files here/Modular_Dialogue_Sys/Saved/Logs/Modular_Dialogue_Sys.log
+[2026.01.13-05.21.23:410][725]SourceControl: Error: fatal: pathspec 'H:/Unreal Engine Projects/Dynamic-Dialogue-Tree-System-for-Unreal-Engine-Using-Blueprint/unreal project files here/Modular_Dialogue_Sys/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset' did not match any files
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/': No such file or directory
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/': No such file or directory
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Instances/': No such file or directory
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Instances/': No such file or directory
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/': No such file or directory
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/': No such file or directory
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/': No such file or directory
+[2026.01.13-05.21.23:410][725]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/': No such file or directory
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uasset'
+[2026.01.13-05.21.23:411][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_T_Pose.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Materials/M_Mannequin.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Meshes/Mannequin_LODSettings.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/RTG_Mannequin.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset'
+[2026.01.13-05.21.23:412][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2026.01.13-05.21.23:413][725]SourceControl: rm 'unreal project files here/Modular_Dialogue_Sys/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset'
+[2026.01.13-05.21.23:418][725]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
+[2026.01.13-05.21.26:793][735]SourceControl: Error: warning: could not open directory 'unreal project files here/Modular_Dialogue_Sys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/': No such file or directory
